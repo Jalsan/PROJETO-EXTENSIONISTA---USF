@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665955346 source:c:\users\gggus\onedrive\Área de trabalho\projetousf\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
