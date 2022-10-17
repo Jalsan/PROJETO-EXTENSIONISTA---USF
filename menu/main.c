@@ -195,11 +195,10 @@ void aboutUs()
     printf(" que apos seu registro ficara armazenado em disco local para consultas posteriores!\n\n");
     printf("-----------------------------------\n");
     printf(" RESPONSAVEIS PELO PROJETO: \n\n");
-    printf(" BEATRIZ FRISO - RA: ????\n\n");
-    printf(" GUSTAVO VALDO - RA: ????\n\n");
-    printf(" JO S ALMEIDA - RA: ????\n\n");
-    printf(" LEONARDO - RA: ????\n\n");
-    printf(" RENAN - RA: ????\n\n");
+    printf(" BEATRIZ FRISO DE PAULA - RA: 202224685\n\n");
+    printf(" GUSTAVO HENRIQUE VALDO - RA: 202223486\n\n");
+    printf(" JO S ALMEIDA - RA: \n\n");
+    printf(" RENAN SANTOS RODRIGUES - RA: 202223918\n\n");
     printf("-----------------------------------\n");
     printf(" MODULO: PRATICA EXTENSIONISTA - ADS - USF \n\n");
 }
